@@ -1,0 +1,27 @@
+body{
+    background:linear-gradient(to right, rgb(22, 22, 162),rgb(222, 34, 131))
+}
+
+#container{
+    background-color: #c6cfd4;
+    border: 5px solid ;
+    height: 300px;
+    width: 750px;
+    margin-top:100px;
+    margin-bottom:100px;
+    margin-left:250px;
+    text-align:center;
+}
+
+#input{
+    width: 100px;
+    margin: 25px auto;
+}
+
+p{
+    font-size: 24px;
+}
+
+#btn{
+    margin:25px auto auto 2px;
+}
